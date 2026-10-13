@@ -1,0 +1,6 @@
+{
+  "name": "PuzzlePanic",
+  "description": "Fast-paced arcade territory-capture game across 5 exciting themes with enemies, charges, and retro action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
